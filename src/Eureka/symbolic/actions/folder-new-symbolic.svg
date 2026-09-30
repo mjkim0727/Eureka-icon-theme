@@ -1,43 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   width="16"
-   height="16"
-   viewBox="0 0 16 16"
-   version="1.1"
-   id="svg292"
-   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
-   sodipodi:docname="folder-new-symbolic.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview294"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="px"
-     showgrid="false"
-     showguides="true"
-     inkscape:zoom="50.375"
-     inkscape:cx="7.9900744"
-     inkscape:cy="8"
-     inkscape:window-width="1920"
-     inkscape:window-height="1008"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg292" />
-  <defs
-     id="defs289" />
-  <path
-     d="m 3.0000002,1.9999997 c -1.1079967,0 -2,0.8920033 -2,2 V 13 c 0,1.107997 0.8920033,2 2,2 H 10 V 14 H 3.0000002 c -0.5539982,0 -1,-0.446003 -1,-1 V 3.9999997 c 0,-0.5539982 0.4460018,-1 1,-1 h 3 c 0.5508346,-0.00283 0.6299215,0.1121012 0.9121094,0.4121094 L 7.5253908,4.5253903 C 7.9159261,4.9446618 8.1947389,5.0026647 8.8105471,4.9999997 H 13 c 0.67359,-0.00213 1.012178,0.3007609 1,1 v 4 h 1 v -4 c 0,-1.1079967 -0.892003,-2.0000257 -2,-2 H 8.5000002 L 7.6542971,2.6542966 C 7.0818753,2.0382467 6.8099812,1.9999997 6.0000002,1.9999997 Z M 13,11 v 2 h -2 v 1 h 2 v 2 h 1 v -2 h 2 v -1 h -2 v -2 z"
-     style="color:#4d4d4d;fill:currentColor;stroke:none"
-     id="path1434" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="16px" viewBox="0 0 16 16" width="16px" xmlns="http://www.w3.org/2000/svg">
+    <path d="m 3 1 c -1.644531 0 -3 1.355469 -3 3 v 8 c 0 1.644531 1.355469 3 3 3 h 3 c 0.550781 0 1 -0.449219 1 -1 s -0.449219 -1 -1 -1 h -3 c -0.5625 0 -1 -0.4375 -1 -1 v -7 h 11 c 0.5625 0 1 0.4375 1 1 v 1 c 0 0.550781 0.449219 1 1 1 s 1 -0.449219 1 -1 v -1 c 0 -1.644531 -1.355469 -3 -3 -3 h -3.585938 l -1.707031 -1.707031 c -0.1875 -0.1875 -0.441406 -0.292969 -0.707031 -0.292969 z m 0 2 h 3.585938 l 1 1 h -5.585938 c 0 -0.5625 0.4375 -1 1 -1 z m 8 5 v 3 h -3 v 2 h 3 v 3 h 2 v -3 h 3 v -2 h -3 v -3 z m 0 0" fill="#2e3436"/>
 </svg>
