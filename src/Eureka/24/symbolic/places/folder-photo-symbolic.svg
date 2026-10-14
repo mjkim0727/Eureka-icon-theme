@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="16"
-   height="16"
-   viewBox="0 0 16 16"
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
    version="1.1"
    id="svg11945"
    inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
-   sodipodi:docname="go-up-symbolic.svg"
+   sodipodi:docname="folder-photo-symbolic.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,9 +24,9 @@
      inkscape:document-units="px"
      showgrid="false"
      units="in"
-     inkscape:zoom="50.25"
-     inkscape:cx="7.9900498"
-     inkscape:cy="8"
+     inkscape:zoom="33.5"
+     inkscape:cx="11.985075"
+     inkscape:cy="12"
      inkscape:window-width="1920"
      inkscape:window-height="1012"
      inkscape:window-x="0"
@@ -41,16 +41,12 @@
     <style
        id="current-color-scheme"
        type="text/css">
-        .ColorScheme-Text { color:#4d4d4d; }
-        .ColorScheme-Highlight { color:#4285f4; }
-        .ColorScheme-NeutralText { color:#ff9800; }
-        .ColorScheme-PositiveText { color:#4caf50; }
-        .ColorScheme-NegativeText { color:#f44336; }</style>
+         .ColorScheme-Text { color:#4d4d4d; }
+        </style>
   </defs>
   <path
-     id="rect923"
-     style="fill:currentColor;fill-opacity:1;stroke-width:5.00001;stroke-linecap:round;stroke-linejoin:round"
+     id="path959"
+     style="fill:currentColor;stroke:none;stroke-width:2;stroke-linecap:round;-inkscape-stroke:none"
      class="ColorScheme-Text"
-     d="m 8.3529151,5.1468989 c -0.1958816,-0.1958589 -0.511239,-0.1958702 -0.707107,0 -0.00612,0.00612 -0.013606,0.013002 -0.019351,0.019351 L 2.1468983,10.646442 c -0.1958585,0.195881 -0.1958699,0.511239 -3e-7,0.707107 0.1958699,0.19587 0.5112394,0.19587 0.7071066,-10e-7 L 7.9993607,6.2075599 13.145896,11.353551 c 0.195867,0.19587 0.511239,0.19587 0.707107,0 0.19587,-0.19587 0.19587,-0.511239 0,-0.707107 z"
-     sodipodi:nodetypes="sscsscccscs" />
+     d="m 9.9999997,5.9999998 -1.5,1.9999999 H 7.0000001 c -1.1079959,0 -1.9999999,0.8920044 -1.9999999,2.0000001 V 16 c 0,1.107996 0.892004,2 1.9999999,2 H 17 c 1.107996,0 2,-0.892004 2,-2 V 9.9999998 C 19,8.8920041 18.107996,7.9999997 17,7.9999997 H 15.5 L 14,5.9999998 Z m 0.5000003,1 h 3 L 15,9 h 2 c 0.57129,0 1,0.4287095 1,0.9999998 V 16 c 0,0.57129 -0.42871,0.999999 -1,0.999999 H 7.0000001 c -0.5712904,0 -1,-0.428709 -1,-0.999999 V 9.9999998 C 6.0000001,9.4287095 6.4287097,9 7.0000001,9 h 1.9999998 z m 1.5,3 A 2.9999999,2.9999999 0 0 0 8.9999999,13 2.9999999,2.9999999 0 0 0 12,16 2.9999999,2.9999999 0 0 0 15,13 2.9999999,2.9999999 0 0 0 12,9.9999998 Z M 12,11 a 2,2 0 0 1 2,2 2,2 0 0 1 -2,2 A 2,2 0 0 1 9.9999997,13 2,2 0 0 1 12,11 Z" />
 </svg>

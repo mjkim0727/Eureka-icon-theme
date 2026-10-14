@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="folder-videos-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="36.636364"
+     inkscape:cx="10.986352"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+         .ColorScheme-Text { color:#4d4d4d; }
+        </style>
+  </defs>
+  <path
+     d="m 5.0000004,2.9999996 c -1.108,0 -1.9999998,0.892 -1.9999998,2 V 17 c 0,1.108 0.8919998,2 1.9999998,2 H 17 c 1.107999,0 1.999999,-0.892 1.999999,-2 V 4.9999996 c 0,-1.108 -0.892,-2 -1.999999,-2 z m 0,1 H 17 c 0.553999,0 0.999999,0.446 0.999999,1 V 17 c 0,0.554 -0.446,1 -0.999999,1 H 5.0000004 c -0.554,0 -1,-0.446 -1,-1 V 4.9999996 c 0,-0.554 0.446,-1 1,-1 z M 8.0117189,5.9980465 C 7.8353208,5.99582 7.6614723,6.040293 7.5078126,6.1269526 7.193091,6.3039951 6.9982477,6.6369458 6.998047,6.9980464 v 8.0000006 c 5.757e-4,0.776534 0.8473463,1.256188 1.5136721,0.857422 l 7.0039059,-3.998001 c 0.642737,-0.389223 0.642737,-1.321714 0,-1.710937 L 8.5117191,6.1406247 C 8.360538,6.049848 8.1880404,6.0006612 8.0117189,5.9980465 Z m -0.011717,1.0019532 7,4.0000463 -7,3.999953 z"
+     style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:4.31947;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+     class="ColorScheme-Text"
+     id="path342"
+     sodipodi:nodetypes="ssssssssssssssssssccccccccccccc" />
+</svg>

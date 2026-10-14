@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   enable-background="new"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="help-about.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#4d4d4d; }
+        .ColorScheme-Highlight { color:#4285f4; }
+        .ColorScheme-NeutralText { color:#ff9800; }
+        .ColorScheme-PositiveText { color:#4caf50; }
+        .ColorScheme-NegativeText { color:#f44336; }</style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="33.5"
+     inkscape:cx="11.985075"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="path1988"
+     style="fill:currentColor;stroke-width:1.75;stroke-linecap:round;stroke-linejoin:round"
+     class="ColorScheme-Text"
+     d="m 12,5 c -3.8659932,0 -7,3.1340068 -7,7 0,3.865993 3.1340068,7 7,7 3.865993,0 7,-3.134007 7,-7 0,-3.8659932 -3.134007,-7 -7,-7 z m 0,1 a 6,6 0 0 1 6,6 6,6 0 0 1 -6,6 6,6 0 0 1 -6,-6 6,6 0 0 1 6,-6 z m 0,1 c -0.552285,0 -1,0.4477153 -1,1 0,0.5522847 0.447715,1 1,1 0.552285,0 1,-0.4477153 1,-1 0,-0.5522847 -0.447715,-1 -1,-1 z m -1.5,3 c -0.554,0 -1,0.446 -1,1 0,0.554 0.446,1 1,1 H 11 v 4 c 0,0.554 0.446,1 1,1 0.554,0 1,-0.446 1,-1 v -5 c 0,-0.01729 -0.0011,-0.03371 -0.002,-0.05078 -8.6e-4,-0.01709 -0.0022,-0.03393 -0.0039,-0.05078 -0.0017,-0.01713 -0.0033,-0.03392 -0.0059,-0.05078 -0.0025,-0.01659 -0.0045,-0.03252 -0.0078,-0.04883 -0.0033,-0.01622 -0.0076,-0.0329 -0.01172,-0.04883 -0.0041,-0.016 -0.0088,-0.03315 -0.01367,-0.04883 -0.0047,-0.01527 -0.01019,-0.02998 -0.01563,-0.04492 -0.0056,-0.01533 -0.01127,-0.03191 -0.01758,-0.04687 -0.01262,-0.02993 -0.02761,-0.05759 -0.04297,-0.08594 -0.0077,-0.01427 -0.01504,-0.02913 -0.02344,-0.04297 -0.0083,-0.01374 -0.01642,-0.02772 -0.02539,-0.04102 -0.01794,-0.02659 -0.03825,-0.0515 -0.05859,-0.07617 -0.02035,-0.02468 -0.04186,-0.04772 -0.06445,-0.07031 -0.02259,-0.02259 -0.04564,-0.04411 -0.07031,-0.06445 -0.02468,-0.02035 -0.04958,-0.04066 -0.07617,-0.05859 -0.0132,-0.0089 -0.02737,-0.01711 -0.04102,-0.02539 -0.01374,-0.0083 -0.0288,-0.01576 -0.04297,-0.02344 -0.02834,-0.01536 -0.05601,-0.03035 -0.08594,-0.04297 -0.01535,-0.0065 -0.03114,-0.01186 -0.04687,-0.01758 -0.01533,-0.0056 -0.02925,-0.01077 -0.04492,-0.01563 -0.01575,-0.0049 -0.03275,-0.0096 -0.04883,-0.01367 -0.016,-0.0041 -0.03252,-0.0084 -0.04883,-0.01172 -0.01603,-0.0033 -0.03252,-0.0053 -0.04883,-0.0078 -0.01659,-0.0025 -0.03393,-0.0042 -0.05078,-0.0059 -0.01687,-0.0017 -0.03367,-0.003 -0.05078,-0.0039 C 12.03369,10.001093 12.017312,10 12,10 Z" />
+</svg>

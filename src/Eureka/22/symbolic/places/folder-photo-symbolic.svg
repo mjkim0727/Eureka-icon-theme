@@ -8,7 +8,7 @@
    version="1.1"
    id="svg11945"
    inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
-   sodipodi:docname="go-up-symbolic.svg"
+   sodipodi:docname="folder-photo-symbolic.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -41,16 +41,12 @@
     <style
        id="current-color-scheme"
        type="text/css">
-        .ColorScheme-Text { color:#4d4d4d; }
-        .ColorScheme-Highlight { color:#4285f4; }
-        .ColorScheme-NeutralText { color:#ff9800; }
-        .ColorScheme-PositiveText { color:#4caf50; }
-        .ColorScheme-NegativeText { color:#f44336; }</style>
+         .ColorScheme-Text { color:#4d4d4d; }
+        </style>
   </defs>
   <path
-     id="rect923"
-     style="fill:currentColor;fill-opacity:1;stroke-width:5.00001;stroke-linecap:round;stroke-linejoin:round"
+     id="path959"
+     style="fill:currentColor;stroke:none;stroke-width:2;stroke-linecap:round;-inkscape-stroke:none"
      class="ColorScheme-Text"
-     d="m 11.352915,8.1468984 c -0.195881,-0.1958589 -0.511239,-0.1958702 -0.707107,0 -0.0061,0.00612 -0.01361,0.013002 -0.01935,0.019351 L 5.1468982,13.646442 c -0.1958585,0.195881 -0.1958699,0.511239 -3e-7,0.707107 0.1958699,0.19587 0.5112394,0.19587 0.7071066,-10e-7 l 5.1453565,-5.1459885 5.146535,5.1459915 c 0.195867,0.19587 0.511239,0.19587 0.707107,0 0.19587,-0.19587 0.19587,-0.511239 0,-0.707107 z"
-     sodipodi:nodetypes="sscsscccscs" />
+     d="m 8.9999995,5 -1.5,1.9999999 H 5.9999999 C 4.892004,6.9999999 4,7.8920043 4,9 v 6 c 0,1.107996 0.892004,2 1.9999999,2 H 16 c 1.107996,0 2,-0.892004 2,-2 V 9 C 18,7.8920043 17.107996,6.9999999 16,6.9999999 H 14.5 L 13,5 Z M 9.4999998,6 H 12.5 L 14,8.0000002 h 2 c 0.57129,0 1,0.4287095 1,0.9999998 v 6 c 0,0.57129 -0.42871,0.999999 -1,0.999999 H 5.9999999 c -0.5712904,0 -1,-0.428709 -1,-0.999999 V 9 c 0,-0.5712903 0.4287096,-0.9999998 1,-0.9999998 H 7.9999997 Z M 11,9 A 2.9999999,2.9999999 0 0 0 7.9999997,12 2.9999999,2.9999999 0 0 0 11,15 2.9999999,2.9999999 0 0 0 14,12 2.9999999,2.9999999 0 0 0 11,9 Z m 0,1 a 2,2 0 0 1 2,2 2,2 0 0 1 -2,2 A 2,2 0 0 1 8.9999995,12 2,2 0 0 1 11,10 Z" />
 </svg>

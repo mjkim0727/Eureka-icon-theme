@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg371"
+   xml:space="preserve"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="start-here-kde-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+   id="namedview373"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:document-units="px"
+   showgrid="false"
+   inkscape:zoom="33.5"
+   inkscape:cx="11.985075"
+   inkscape:cy="12"
+   inkscape:window-width="1920"
+   inkscape:window-height="1012"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg371"
+   showguides="true" />
+  <defs
+   id="defs368">
+    <style
+   id="current-color-scheme"
+   type="text/css">
+        .ColorScheme-Text { color:#4d4d4d; }
+     </style>
+  </defs>
+  
+  <path
+   id="path360"
+   style="fill:currentColor;fill-opacity:1;stroke-width:1"
+   d="m 7.0000001,2 c -0.830999,0 -1.5,0.669001 -1.5,1.5 0,0.830999 0.669001,1.5 1.5,1.5 0.830999,0 1.5,-0.669001 1.5,-1.5 0,-0.830999 -0.669001,-1.5 -1.5,-1.5 z M 14.857422,2 12,4.799805 16.286133,8.9999999 12,13.200195 14.857422,16 22,8.9999999 Z M 3.75,9.9999999 C 2.780508,9.9999999 2,10.780494 2,11.75 2,12.719492 2.780508,13.5 3.75,13.5 4.719506,13.5 5.5000001,12.719492 5.5000001,11.75 5.5000001,10.780494 4.719506,9.9999999 3.75,9.9999999 Z M 9.5000001,17 c -1.384998,0 -2.5,1.115001 -2.5,2.5 0,1.384999 1.115002,2.5 2.5,2.5 C 10.884999,22 12,20.884999 12,19.5 12,18.115001 10.884999,17 9.5000001,17 Z"
+   class="ColorScheme-Text" /></svg>
