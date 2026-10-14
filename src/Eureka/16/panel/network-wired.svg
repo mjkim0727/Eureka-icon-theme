@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="network-wired.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="51.5625"
+     inkscape:cx="7.9806061"
+     inkscape:cy="7.990303"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#dfdfdf; }
+        .ColorScheme-Highlight { color:#4285f4; }
+        .ColorScheme-NeutralText { color:#ff9800; }
+        .ColorScheme-PositiveText { color:#4caf50; }
+        .ColorScheme-NegativeText { color:#f44336; }
+     </style>
+  </defs>
+  <path
+     id="rect1208"
+     style="opacity:1;fill:currentColor;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+     class="ColorScheme-Text"
+     d="M 4.2441406,3.7558594 C 3.9885183,3.755856 3.7329642,3.8548994 3.5371094,4.0507812 L 0.29296875,7.2929688 c -0.39170964,0.3917638 -0.39170964,1.0222988 0,1.4140624 L 3.5371094,11.949219 c 0.3917086,0.391762 1.0223269,0.391736 1.4140625,0 0.3917375,-0.391736 0.3917025,-1.022291 0,-1.414063 L 2.4160156,8 4.9511719,5.4648438 c 0.3917015,-0.3917714 0.3917365,-1.0223262 0,-1.4140626 C 4.7553036,3.8549131 4.499763,3.7558628 4.2441406,3.7558594 Z m 7.5136714,0 c -0.255622,3.4e-6 -0.511162,0.099054 -0.707031,0.2949218 -0.391736,0.3917364 -0.391701,1.0222912 0,1.4140626 L 13.585938,8 11.050781,10.535156 c -0.391702,0.391772 -0.391737,1.022326 0,1.414063 0.391736,0.391736 1.022354,0.391762 1.414063,0 l 3.242187,-3.2421878 c 0.39171,-0.3917637 0.39171,-1.0222986 0,-1.4140624 L 12.464844,4.0507812 C 12.268989,3.8548994 12.013435,3.755856 11.757812,3.7558594 Z M 6,7 C 5.4460006,7 5,7.4460006 5,8 5,8.5539994 5.4460006,9 6,9 h 4 C 10.553999,9 11,8.5539994 11,8 11,7.4460006 10.553999,7 10,7 Z"
+     sodipodi:nodetypes="sccccscccsssscccsccccssssssss" />
+</svg>
