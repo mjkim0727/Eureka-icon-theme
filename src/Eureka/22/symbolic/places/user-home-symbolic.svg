@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg371"
+   xml:space="preserve"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="user-home-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+   id="namedview373"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:document-units="px"
+   showgrid="false"
+   inkscape:zoom="36.545455"
+   inkscape:cx="10.986318"
+   inkscape:cy="11"
+   inkscape:window-width="1920"
+   inkscape:window-height="1012"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg371"
+   showguides="false" />
+    <defs
+   id="defs368">
+        <style
+   id="current-color-scheme"
+   type="text/css">
+         .ColorScheme-Text { color:#4d4d4d; }
+        </style>
+    </defs>
+    <path
+   id="path967"
+   style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+   class="ColorScheme-Text"
+   d="m 11.000004,4.047 c -0.766852,0 -1.5334902,0.2952077 -2.121094,0.8828125 L 4.9296913,8.8790312 C 4.0462091,9.647541 3.9995078,9.891521 4.0000038,11.000125 v 5 c 0,1.104566 0.8954342,2 2,2 h 3 v -6 c 0,-0.553998 0.446002,-1 1.0000002,-1 h 2 c 0.553997,0 1,0.446002 1,1 v 6 h 3 c 1.104566,0 2,-0.895434 2,-2 v -5 C 17.934804,9.861315 17.761748,9.5952 17.070316,8.8790312 L 13.121098,4.9298125 C 12.533459,4.3422414 11.766856,4.047 11.000004,4.047 Z m 0,1 c 0.510214,0 1.015559,0.1913399 1.414063,0.5898438 l 3.937499,3.9375002 c 0.65672,0.680215 0.591644,0.453972 0.648438,1.464844 v 4.960937 c 0,0.564124 -0.435876,1 -1,1 h -2 v -5 c 0,-1.107997 -0.892003,-2 -2,-2 h -2 c -1.1079969,0 -2.0000002,0.892003 -2.0000002,2 v 5 h -2 c -0.5641245,0 -1,-0.435876 -1,-1 v -5 c -2.417e-4,-0.540227 0.030688,-0.739045 0.058594,-0.806641 0.027906,-0.0676 0.1185563,-0.204957 0.5273437,-0.560546 0.017462,-0.01504 0.034399,-0.03067 0.050781,-0.04687 L 9.5859418,5.6368438 C 9.9844438,5.2383399 10.48979,5.047 11.000004,5.047 Z" />
+    </svg>

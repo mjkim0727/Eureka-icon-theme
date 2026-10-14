@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="bluetooth-acquiring-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="35.6875"
+     inkscape:cx="8"
+     inkscape:cy="7.9859895"
+     inkscape:window-width="1440"
+     inkscape:window-height="831"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     id="path1243"
+     style="fill:#4d4d4d;fill-opacity:1;opacity:0.35"
+     d="M 6.9746094 0 C 6.8356645 0.0036884315 6.6963122 0.036925275 6.5664062 0.099609375 C 6.2204118 0.26612097 6.0002998 0.6160233 6 1 L 6 5 L 8 5 L 8 3.0820312 L 10.384766 4.9902344 L 10.373047 5 L 13 5 C 13.000293 4.7096894 12.875401 4.4193429 12.625 4.21875 L 7.625 0.21875 C 7.4371278 0.068764931 7.2061841 -0.0061473858 6.9746094 0 z M 2.9707031 3.0019531 C 2.6828929 3.0103983 2.4015648 3.1417733 2.2109375 3.3867188 C 1.8725964 3.822606 1.9512603 4.4501696 2.3867188 4.7890625 L 2.6582031 5 L 5.9140625 5 L 3.6132812 3.2109375 C 3.4225806 3.0629132 3.1945555 2.9953847 2.9707031 3.0019531 z M 2.6582031 11 L 2.3867188 11.210938 C 1.9512607 11.549831 1.8725969 12.177394 2.2109375 12.613281 C 2.5498302 13.04874 3.1773938 13.127404 3.6132812 12.789062 L 5.9140625 11 L 2.6582031 11 z M 6 11 L 6 15 C 5.9996501 15.838869 6.970049 16.305407 7.625 15.78125 L 12.625 11.78125 C 12.875274 11.580759 13.000166 11.290164 13 11 L 10.373047 11 L 10.384766 11.009766 L 8 12.917969 L 8 11 L 6 11 z " />
+  <path
+     id="path1"
+     style="fill:#4d4d4d;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+     d="M 2 6 A 2 2 0 0 0 0 8 A 2 2 0 0 0 2 10 A 2 2 0 0 0 4 8 A 2 2 0 0 0 2 6 z M 8 6 A 2 2 0 0 0 6 8 A 2 2 0 0 0 8 10 A 2 2 0 0 0 10 8 A 2 2 0 0 0 8 6 z M 14 6 A 2 2 0 0 0 12 8 A 2 2 0 0 0 14 10 A 2 2 0 0 0 16 8 A 2 2 0 0 0 14 6 z " />
+</svg>

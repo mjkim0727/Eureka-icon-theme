@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg11945"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="folder-download-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11947"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="in"
+     inkscape:zoom="50.25"
+     inkscape:cx="7.9900498"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg11945"
+     showguides="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs11942">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#4d4d4d; }
+     </style>
+  </defs>
+  <path
+     d="M 7.5,1 C 7.2229984,1 6.9999999,1.2230001 6.9999999,1.5 v 9.765626 L 3.3437501,7.6093754 c -0.1958702,-0.1958703 -0.5111611,-0.1958703 -0.7070312,0 -0.1958702,0.1958665 -0.1958702,0.5111615 0,0.7070313 l 4.363281,4.3496103 C 7.2380837,12.918444 7.3252131,13.002051 7.5,13.000003 c 0.18144,0.0012 0.3346318,-0.151487 0.5000002,-0.33594 L 12.363281,8.3164067 c 0.195871,-0.1958702 0.195871,-0.511163 0,-0.7070313 -0.19587,-0.1958703 -0.511163,-0.1958703 -0.707031,0 L 8.0000002,11.265626 V 1.5 C 8.0000002,1.223 7.7770005,1 7.5,1 Z m -6,13.000002 c -0.2769997,0 -0.5,0.222996 -0.5,0.499999 0,0.277002 0.2229997,0.500001 0.5,0.500001 h 12 c 0.277002,0 0.5,-0.223 0.5,-0.500001 0,-0.277001 -0.222999,-0.499999 -0.5,-0.499999 z"
+     style="fill:currentColor;stroke-width:3.77953"
+     class="ColorScheme-Text"
+     id="path1" />
+</svg>

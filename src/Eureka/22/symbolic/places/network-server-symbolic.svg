@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg11945"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="network-server-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11947"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="in"
+     inkscape:zoom="32.909091"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-width="1567"
+     inkscape:window-height="932"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg11945"
+     showguides="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs11942">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#4d4d4d; }
+     </style>
+  </defs>
+  <path
+     id="rect6301"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 6.0000001,4 C 4.892,4 4,4.892 4,6.0000001 V 8.0000002 C 4,9.108 4.892,10 6.0000001,10 H 16.000001 c 1.108,0 2,-0.892 2,-1.9999998 V 6.0000001 C 18.000001,4.892 17.108001,4 16.000001,4 Z m 0,1.0000001 H 16.000001 c 0.554,0 1,0.446 1,1 v 2.0000001 c 0,0.554 -0.446,0.9999998 -1,0.9999998 H 6.0000001 c -0.554,0 -1,-0.4459998 -1,-0.9999998 V 6.0000001 c 0,-0.554 0.446,-1 1,-1 z m 1.0000001,1 a 1.0000001,1.0000001 0 0 0 -1.0000001,1.0000001 1.0000001,1.0000001 0 0 0 1.0000001,1 1.0000001,1.0000001 0 0 0 1,-1 1.0000001,1.0000001 0 0 0 -1,-1.0000001 z M 6.0000001,11 C 4.892,11 4,11.892 4,13 v 2 c 0,1.108001 0.892,2.000001 2.0000001,2.000001 H 16.000001 c 1.108,0 2,-0.892 2,-2.000001 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 H 16.000001 c 0.554,0 1,0.446 1,1 v 2 c 0,0.554001 -0.446,1.000001 -1,1.000001 H 6.0000001 c -0.554,0 -1,-0.446 -1,-1.000001 v -2 c 0,-0.554 0.446,-1 1,-1 z m 1.0000001,1 a 1.0000001,1.0000001 0 0 0 -1.0000001,1 1.0000001,1.0000001 0 0 0 1.0000001,1 1.0000001,1.0000001 0 0 0 1,-1 1.0000001,1.0000001 0 0 0 -1,-1 z" />
+</svg>
