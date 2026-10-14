@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg371"
+   xml:space="preserve"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="emblem-locked.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview373"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="50.25"
+     inkscape:cx="7.9900498"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg371"
+     showguides="true" /><defs
+     id="defs368" /><path
+     d="M 0,8 C 0,2 2,0 8,0 c 6,0 8,2 8,8 0,6 -2,8 -8,8 C 2,16 0,14 0,8"
+     style="opacity:0.6;fill:#666666;fill-opacity:1;stroke-width:0.08"
+     id="path311" /><path
+     id="rect1"
+     style="fill:#ffffff;stroke-width:1.0065"
+     d="M 8 2 C 6.338 2 5 3.338 5 5 L 5 7 L 4 7 C 3.446 7 3 7.446 3 8 L 3 12 C 3 12.554 3.446 13 4 13 L 12 13 C 12.554 13 13 12.554 13 12 L 13 8 C 13 7.446 12.554 7 12 7 L 11 7 L 11 5 C 11 3.338 9.662 2 8 2 z M 8 3 C 9.108 3 10 3.892 10 5 L 10 7 L 6 7 L 6 5 C 6 3.892 6.892 3 8 3 z " /></svg>
