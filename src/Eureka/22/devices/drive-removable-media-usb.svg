@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="drive-removable-media-usb.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="in"
+     height="22px"
+     inkscape:zoom="28.318182"
+     inkscape:cx="10.982343"
+     inkscape:cy="11"
+     inkscape:window-width="1447"
+     inkscape:window-height="831"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg5"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#4d4d4d; }
+    </style>
+  </defs>
+  <path
+     id="rect846-3"
+     style="fill:currentColor;stroke-width:0.704186"
+     class="ColorScheme-Text"
+     d="M 8.3886732,3 C 7.8961232,3 7.5000015,3.3961217 7.5000015,3.888672 v 4.1113278 h 0.070311 C 6.7001514,7.9999998 6,8.7001505 6,9.5703126 V 15.126953 C 6,17.272816 7.7271836,19 9.8730467,19 H 12.126953 C 14.272816,19 16,17.272816 16,15.126953 V 9.5703126 C 16,8.7001505 15.299846,7.9999998 14.429688,7.9999998 h 0.07031 V 3.888672 C 14.500001,3.3961217 14.103879,3 13.611329,3 Z m 0.40625,0.9999999 h 4.4101558 c 0.163189,0 0.294921,0.1317316 0.294921,0.2949203 V 7.9999998 H 8.5000014 V 4.2949217 c 0,-0.1631887 0.1317317,-0.2949203 0.2949218,-0.2949218 z M 9.8828138,5.0000001 C 9.6690248,5.0107718 9.5000013,5.1877406 9.5000013,5.404297 v 1.1914061 c 0,0.2235439 0.1807559,0.4042968 0.4042972,0.4042968 h 0.1914065 c 0.22354,0 0.404297,-0.1807559 0.404297,-0.4042968 V 5.404297 c 0,-0.223544 -0.180756,-0.4042969 -0.404297,-0.4042969 H 9.9042985 c -0.00699,0 -0.014589,-3.473e-4 -0.021468,0 z m 2.0000002,0 c -0.213789,0.010772 -0.382813,0.1877405 -0.382813,0.4042969 v 1.1914061 c 0,0.2235439 0.180756,0.4042968 0.404297,0.4042968 h 0.191407 c 0.223544,0 0.404297,-0.1807559 0.404297,-0.4042968 V 5.404297 c 0,-0.223544 -0.180756,-0.4042969 -0.404297,-0.4042969 h -0.191407 c -0.007,0 -0.01459,-3.473e-4 -0.02151,0 z" />
+</svg>

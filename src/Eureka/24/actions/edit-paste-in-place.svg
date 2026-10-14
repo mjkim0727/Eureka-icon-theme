@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg11945"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="edit-paste-in-place.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11947"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="in"
+     inkscape:zoom="33.5"
+     inkscape:cx="11.985075"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg11945"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs11942">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#4d4d4d; }
+        .ColorScheme-Highlight { color:#4285f4; }
+        .ColorScheme-NeutralText { color:#ff9800; }
+        .ColorScheme-PositiveText { color:#4caf50; }
+        .ColorScheme-NegativeText { color:#f44336; }</style>
+  </defs>
+  <path
+     id="path999"
+     style="fill:currentColor;fill-opacity:1;stroke-width:3.77903;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 12,4 c -3.2951278,0 -6,2.7060707 -6,6.001953 4.607e-4,2.034547 1.0573682,3.533938 1.7499999,4.576172 a 1.4997808,1.5001244 0 0 0 0.080077,0.111329 l 2.9960941,3.75 a 1.4997808,1.5001244 0 0 0 2.339844,0 l 3.003907,-3.750001 a 1.4997808,1.5001244 0 0 0 0.01564,-0.02929 C 17.061485,13.517365 17.999554,11.970964 18,10.001953 18,6.7060707 15.295127,4 12,4 Z m 0.0039,1 c 2.754816,-1.9e-6 4.99609,2.2491725 4.99609,5.003906 -3.74e-4,1.652893 -0.78223,2.982147 -1.601562,4.050782 -0.0024,0.0025 -0.0053,0.0054 -0.0078,0.0078 l -2.996075,3.748046 c -0.200145,0.251441 -0.581105,0.251441 -0.78125,0 L 8.6093749,14.0625 C 8.6014749,14.05052 8.5927829,14.03801 8.5859419,14.02538 7.8930448,12.983035 7.0003793,11.678639 6.9999999,10.003906 6.9999999,7.2491725 9.2490852,5 12.003906,5 Z M 12,7 a 2.9999998,2.9999998 0 0 0 -3,3 2.9999998,2.9999998 0 0 0 3,3 2.9999998,2.9999998 0 0 0 3,-3 2.9999998,2.9999998 0 0 0 -3,-3 z m 0,0.9999999 A 2.0000001,2.0000001 0 0 1 14,10 2.0000001,2.0000001 0 0 1 12,12 2.0000001,2.0000001 0 0 1 9.9999999,10 2.0000001,2.0000001 0 0 1 12,7.9999999 Z"
+     class="ColorScheme-Text" />
+</svg>
