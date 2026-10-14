@@ -11,7 +11,17 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs1" />
+     id="defs1">
+     <style
+        id="current-color-scheme"
+        type="text/css">
+        .ColorScheme-Text { color:#dfdfdf; }
+        .ColorScheme-Highlight { color:#4285f4; }
+        .ColorScheme-NeutralText { color:#ff9800; }
+        .ColorScheme-PositiveText { color:#4caf50; }
+        .ColorScheme-NegativeText { color:#f44336; }
+     </style>
+  </defs>
   <sodipodi:namedview
      id="namedview1"
      pagecolor="#ffffff"
@@ -33,6 +43,7 @@
      inkscape:current-layer="svg1" />
   <path
      id="path1"
-     style="fill:#4d4d4d;stroke-width:1.5"
+     style="fill:currentColor;stroke-width:1.5"
+     class="ColorScheme-Text"
      d="M 8,0 C 6.3380034,0 5,1.3380034 5,3 v 4 c 0,1.6619966 1.3380034,3 3,3 1.6619966,0 3,-1.3380034 3,-3 V 3 C 11,1.3380034 9.6619966,0 8,0 Z M 3,6 A 1,1 0 0 0 2,7 c 0,3.313699 2.6863016,6 6,6 3.313699,0 6,-2.686301 6,-6 A 1,1 0 0 0 13,6 1,1 0 0 0 12,7 C 12,9.2091326 10.209133,11 8,11 5.7908674,11 4,9.2091326 4,7 A 1,1 0 0 0 3,6 Z m 2,8 c -0.5539988,0 -1,0.446002 -1,1 0,0.553998 0.4460012,1 1,1 h 6 c 0.553998,0 1,-0.446002 1,-1 0,-0.553998 -0.446002,-1 -1,-1 z" />
 </svg>
