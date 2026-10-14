@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="audio-volume-muted-blocked.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="36.545455"
+     inkscape:cx="10.986318"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#dfdfdf; }
+        .ColorScheme-Highlight { color:#4285f4; }
+        .ColorScheme-NeutralText { color:#ff9800; }
+        .ColorScheme-PositiveText { color:#4caf50; }
+        .ColorScheme-NegativeText { color:#f44336; }
+     </style>
+  </defs>
+  <path
+     id="path463"
+     style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1.88975"
+     class="ColorScheme-NegativeText"
+     d="m 4.2828338,4.695 c -0.2556188,0 -0.5111628,0.099053 -0.7070312,0.2949219 -0.3917368,0.3917367 -0.3917368,1.0223257 0,1.4140625 l 1.5957031,1.5957031 h -0.171875 c -0.5539988,0 -1,0.4460011 -1,1 v 4.0000005 c 0,0.553998 0.4460012,1 1,1 h 2 l 2.839844,2.833983 c 0.4682123,0.392248 1.1606723,0.04281 1.1601563,-0.585937 v -2.419921 l 4.595703,4.595702 c 0.391737,0.391737 1.022326,0.391737 1.414063,0 0.391736,-0.391736 0.391736,-1.022326 0,-1.414062 L 10.999631,10.999688 7.4996307,7.4996875 4.9898651,4.9899219 C 4.7939967,4.7940535 4.5384527,4.695 4.2828338,4.695 Z m 5.9707032,0.3046875 c -0.148206,0.00766 -0.2940293,0.064423 -0.4140623,0.1660156 L 8.9156463,6.0875781 10.999631,8.1715625 V 5.7477344 C 10.999208,5.4594119 10.841193,5.1964079 10.593381,5.0719531 10.484973,5.0181105 10.368809,4.9937267 10.253537,4.9996875 Z" />
+</svg>

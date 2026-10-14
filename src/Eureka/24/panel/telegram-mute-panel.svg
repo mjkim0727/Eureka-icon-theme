@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1"
+   id="svg1"
+   sodipodi:docname="telegram-mute-panel.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="33.5"
+     inkscape:cx="11.985075"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+  </defs>
+  <circle
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     cx="7.5"
+     cy="16.5"
+     r="1.5"
+     id="circle1" />
+  <path
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 18.052605,17.434212 C 18.306237,16.954714 19.763624,8.7558239 19.971963,6.6363929 20.197354,4.5362183 19.022142,4.9267637 17.940759,5.2815492 15.287708,6.1549912 6.8996017,9.8958612 4.6036141,11.06433 c -0.5652504,0.228533 -0.8095762,0.616283 -0.3982895,0.95189 0.3541172,0.284468 1.6499028,0.675174 2.6949209,0.87345 0.8908304,0.263133 1.5827865,0.01109 2.2215208,-0.340204 1.5349997,-0.887338 6.1089517,-3.9098485 6.3552637,-4.0671504 0.246314,-0.157302 0.515898,0.134626 0.378046,0.2759497 -0.137853,0.141323 -3.377198,2.9736957 -4.440751,4.2543047 -0.563453,0.704136 -0.546575,1.080065 0.03226,1.524088 1.298561,0.99282 4.768049,3.256196 5.284296,3.393003 0.658294,0.174448 1.043836,0.02993 1.321734,-0.495449 z"
+     id="path1" />
+</svg>
