@@ -27,7 +27,7 @@
      showgrid="false"
      inkscape:zoom="12.5625"
      inkscape:cx="31.960199"
-     inkscape:cy="32"
+     inkscape:cy="31.840796"
      inkscape:window-width="1920"
      inkscape:window-height="1012"
      inkscape:window-x="0"
@@ -38,10 +38,10 @@
      id="defs368"><linearGradient
        inkscape:collect="always"
        id="linearGradient2"><stop
-         style="stop-color:#f68b00;stop-opacity:1;"
+         style="stop-color:#eba400;stop-opacity:1;"
          offset="0"
          id="stop1" /><stop
-         style="stop-color:#f9cb00;stop-opacity:1;"
+         style="stop-color:#ffd411;stop-opacity:1;"
          offset="1"
          id="stop2" /></linearGradient><linearGradient
        inkscape:collect="always"
@@ -58,11 +58,7 @@
      id="path311" /><path
      id="path294"
      style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
-     d="M 15 15 C 13.338 15 12 16.338 12 18 L 12 43 C 12 45.216 13.784 47 16 47 L 48 47 C 50.216 47 52 45.216 52 43 L 52 22 A 3 3 0 0 0 49 19 L 32 19 L 29.5625 17 C 28.21002 15.838222 27.662 15 26 15 L 15 15 z " /><rect
-     style="opacity:0.99;fill:#ffffff;fill-opacity:1;stroke-width:1.42878"
+     d="M 15 15 C 13.338 15 12 16.338 12 18 L 12 43 C 12 45.216 13.784 47 16 47 L 48 47 C 50.216 47 52 45.216 52 43 L 52 22 A 3 3 0 0 0 49 19 L 32 19 L 29.5625 17 C 28.21002 15.838222 27.662 15 26 15 L 15 15 z " /><path
      id="rect556"
-     width="40"
-     height="26"
-     x="12"
-     y="23"
-     ry="3" /></svg>
+     style="opacity:0.99;fill:#ffffff;stroke-width:1.42878"
+     d="M 12 24 L 12 46 C 12 47.662 13.338 49 15 49 L 49 49 C 50.662 49 52 47.662 52 46 L 52 24 L 12 24 z " /></svg>

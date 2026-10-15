@@ -47,10 +47,10 @@
        gradientTransform="matrix(1.4666667,0,0,1.4666667,0.533333,0.5333333)" /><linearGradient
        inkscape:collect="always"
        id="linearGradient2"><stop
-         style="stop-color:#f68b00;stop-opacity:1;"
+         style="stop-color:#eba400;stop-opacity:1;"
          offset="0"
          id="stop1" /><stop
-         style="stop-color:#f9cb00;stop-opacity:1;"
+         style="stop-color:#ffd411;stop-opacity:1;"
          offset="1"
          id="stop2" /></linearGradient></defs><path
      d="M 2,24 C 2,7.5 7.5,2 24,2 40.5,2 46,7.5 46,24 46,40.5 40.5,46 24,46 7.5,46 2,40.5 2,24"
@@ -58,11 +58,7 @@
      id="path311" /><path
      id="rect419"
      style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke-width:1.06066"
-     d="M 11 11 C 9.892002 11 9 11.892002 9 13 L 9 18 L 9 25 L 9 35 C 9 36.108 9.892 37 11 37 L 37 37 C 38.108 37 39 36.108 39 35 L 39 16 C 39 14.892 38.108 14 37 14 L 24 14 L 22.408203 12.0625 C 21.704867 11.206358 21.107998 11 20 11 L 11 11 z " /><rect
-     style="fill:#ffffff;fill-opacity:1;stroke-width:1.08343"
+     d="M 11 11 C 9.892002 11 9 11.892002 9 13 L 9 18 L 9 25 L 9 35 C 9 36.108 9.892 37 11 37 L 37 37 C 38.108 37 39 36.108 39 35 L 39 16 C 39 14.892 38.108 14 37 14 L 24 14 L 22.408203 12.0625 C 21.704867 11.206358 21.107998 11 20 11 L 11 11 z " /><path
      id="rect556"
-     width="30"
-     height="19"
-     x="9"
-     y="18"
-     ry="2" /></svg>
+     style="fill:#ffffff;stroke-width:1.08343"
+     d="M 9 18 L 9 35 C 9 36.108 9.892 37 11 37 L 37 37 C 38.108 37 39 36.108 39 35 L 39 18 L 9 18 z " /></svg>
