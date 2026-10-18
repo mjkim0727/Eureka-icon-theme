@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="document-save-all.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="24.125"
+     inkscape:cx="11.979275"
+     inkscape:cy="12"
+     inkscape:window-width="1440"
+     inkscape:window-height="833"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+         .ColorScheme-Text { color:#4d4d4d; }
+        </style>
+  </defs>
+  <path
+     id="path1407"
+     style="fill:currentColor;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     class="ColorScheme-Text"
+     d="M 7,3 C 5.8920022,3 5,3.892002 5,5 3.8920022,5 3,5.892002 3,7 v 12 c 0,1.107997 0.8920022,2 2,2 h 12 c 1.107998,0 2,-0.892003 2,-2 1.107998,0 2,-0.892003 2,-2 V 9 8.5 c 6.8e-5,-0.016241 6.8e-5,-0.032965 0,-0.048828 C 20.996572,7.6460628 20.819351,7.3233026 20.5,7 L 17,3.5 C 16.537031,3.0712064 16.195497,3 15.5,3 Z m 0,1 h 9 l 4,4 v 1 8 c 0,0.553998 -0.446002,1 -1,1 v -7 -0.5 c 6.8e-5,-0.01624 6.8e-5,-0.03297 0,-0.04883 C 18.996572,9.6460629 18.819351,9.3233026 18.5,9 L 15,5.5 C 14.537031,5.0712064 14.195497,5 13.5,5 H 6 C 6,4.446001 6.4460012,4 7,4 Z M 5,6 h 2 v 4 c 0,0.554 0.446,1 1,1 h 6 c 0.554,0 1,-0.446 1,-1 V 7 l 3,3 v 1 8 c 0,0.553998 -0.446002,1 -1,1 h -1 v -3 c 0,-0.553997 -0.446003,-1 -1,-1 H 7 c -0.5539982,0 -1,0.446003 -1,1 v 3 H 5 C 4.4460012,20 4,19.553998 4,19 V 7 C 4,6.446001 4.4460012,6 5,6 Z m 3,0 h 3 v 4 H 8 Z M 7,17 h 8 v 3 H 7 Z" />
+</svg>
