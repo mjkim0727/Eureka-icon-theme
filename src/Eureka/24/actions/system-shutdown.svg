@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="system-shutdown.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="24.125"
+     inkscape:cx="11.979275"
+     inkscape:cy="12"
+     inkscape:window-width="1440"
+     inkscape:window-height="833"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#4d4d4d; }
+        .ColorScheme-Highlight { color:#4285f4; }
+        .ColorScheme-NeutralText { color:#ff9800; }
+        .ColorScheme-PositiveText { color:#4caf50; }
+        .ColorScheme-NegativeText { color:#f44336; }
+     </style>
+  </defs>
+  <path
+     id="path1"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 11.5,4 C 11.223,4 11,4.223 11,4.5 v 7 c 0,0.277 0.223,0.5 0.5,0.5 0.277,0 0.5,-0.223 0.5,-0.5 v -7 C 12,4.223 11.777,4 11.5,4 Z M 8,5.9375 C 7.9122844,5.9373233 7.8260658,5.9602251 7.75,6.0039062 4.8123322,7.6999695 3.3779124,11.164864 4.2558594,14.441406 5.1338063,17.717949 8.1078733,20 11.5,20 14.892127,20 17.866194,17.717949 18.744141,14.441406 19.622088,11.164864 18.187668,7.6999697 15.25,6.0039062 15.010572,5.8655361 14.704293,5.9477936 14.566406,6.1875 14.428036,6.426928 14.510294,6.7332064 14.75,6.8710938 17.299884,8.3432704 18.541352,11.337613 17.779297,14.181641 17.017242,17.025667 14.444353,19 11.5,19 8.5556471,19 5.9827577,17.025667 5.2207031,14.181641 4.4586486,11.337613 5.7001157,8.3432703 8.25,6.8710938 8.4897062,6.7332062 8.5719638,6.426928 8.4335938,6.1875 8.3441737,6.0326195 8.1788404,5.9372922 8,5.9375 Z" />
+</svg>

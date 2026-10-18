@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="system-log-out.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="18.09375"
+     inkscape:cx="15.972366"
+     inkscape:cy="16"
+     inkscape:window-width="1440"
+     inkscape:window-height="833"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#4d4d4d; }
+        .ColorScheme-Highlight { color:#4285f4; }
+        .ColorScheme-NeutralText { color:#ff9800; }
+        .ColorScheme-PositiveText { color:#4caf50; }
+        .ColorScheme-NegativeText { color:#f44336; }
+     </style>
+  </defs>
+  <circle
+     style="opacity:0.4;fill:#f2f2f2;stroke:none;stroke-width:2.14286;stroke-linecap:round;stroke-opacity:1;fill-opacity:1"
+     id="path2"
+     cx="16"
+     cy="16"
+     r="15" />
+  <path
+     id="rect1"
+     style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="m 19.485281,6.1005051 c -0.391737,-0.3917372 -1.022476,-0.3917372 -1.414213,0 L 8.171573,16 l 9.899495,9.899495 c 0.391737,0.391737 1.022476,0.391737 1.414213,0 0.391738,-0.391737 0.391738,-1.022476 0,-1.414214 L 11,16 19.485281,7.5147186 c 0.391738,-0.3917371 0.391738,-1.0224764 0,-1.4142135 z" />
+</svg>

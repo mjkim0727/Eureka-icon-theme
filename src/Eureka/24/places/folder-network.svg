@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="folder-network.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="24.125"
+     inkscape:cx="11.979275"
+     inkscape:cy="12"
+     inkscape:window-width="1440"
+     inkscape:window-height="833"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#4d4d4d; }
+     </style>
+  </defs>
+  <path
+     id="path1"
+     style="fill:currentColor;fill-opacity:1;stroke-width:2.66667;stroke-linecap:round;stroke-linejoin:round"
+     class="ColorScheme-Text"
+     d="m 17,4 a 3,3 0 0 0 -3,3 3,3 0 0 0 0.04687,0.5253906 l -4.75,2.5449224 A 3,3 0 0 0 7,9 3,3 0 0 0 4,12 3,3 0 0 0 7,15 3,3 0 0 0 9.1152344,14.126953 L 14,16.927734 a 3,3 0 0 0 0,0.002 3,3 0 0 0 0,0.07031 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 3,3 0 0 0 -2.78125,1.876953 L 9.7011719,13.304688 A 3,3 0 0 0 10,12 3,3 0 0 0 9.8105469,10.949219 a 3,3 0 0 0 0,-0.0019 L 14.394531,8.4863281 A 3,3 0 0 0 17,10 3,3 0 0 0 20,7 3,3 0 0 0 17,4 Z m 0,1 A 2,2 0 0 1 19,7 2,2 0 0 1 17,9 2,2 0 0 1 15,7 2,2 0 0 1 17,5 Z M 7,10 a 2,2 0 0 1 2,2 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 z m 10,5 a 2,2 0 0 1 2,2 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 z" />
+</svg>

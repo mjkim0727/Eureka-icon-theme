@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="view-media-lyrics.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="32.166667"
+     inkscape:cx="11.005181"
+     inkscape:cy="10.989637"
+     inkscape:window-width="1440"
+     inkscape:window-height="833"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {
+        color:#4d4d4d;
+        }</style>
+  </defs>
+  <path
+     id="path1"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 3.5,2 C 3.223,2 3,2.223 3,2.5 3,2.777 3.223,3 3.5,3 h 15 C 18.777,3 19,2.777 19,2.5 19,2.223 18.777,2 18.5,2 Z m 0,3 C 3.223,5 3,5.223 3,5.5 3,5.777 3.223,6 3.5,6 h 13 C 16.777,6 17,5.777 17,5.5 17,5.223 16.777,5 16.5,5 Z m 0,3 C 3.2230015,8 3,8.2230015 3,8.5 3,8.7769985 3.2230015,9 3.5,9 h 9 C 12.776999,9 13,8.7769985 13,8.5 13,8.2230015 12.776999,8 12.5,8 Z M 15,8 c -0.552282,0 -1,0.4477171 -1,1 v 5.763672 C 13.44994,14.271812 12.737897,13.999928 12,14 c -1.656852,0 -3,1.343148 -3,3 0,1.656852 1.343148,3 3,3 1.656852,0 3,-1.343148 3,-3 V 9 c 1.656846,0 2.987454,0.761117 3,3 v 0.5 c 0,0.276142 0.223858,0.5 0.5,0.5 h 0.02539 C 18.782053,12.987266 18.987266,12.78205 19,12.525391 v -0.002 -0.002 -0.002 -0.002 -0.002 -0.002 -0.002 -0.002 -0.002 -0.002 -0.002 -0.002 V 12.5 12 C 18.959927,8.9629497 17.209131,8 15,8 Z M 3.5,11 C 3.2230015,11 3,11.223002 3,11.5 3,11.776998 3.2230015,12 3.5,12 h 9 C 12.776999,12 13,11.776998 13,11.5 13,11.223002 12.776999,11 12.5,11 Z m 0,3 C 3.2230015,14 3,14.223002 3,14.5 3,14.776998 3.2230015,15 3.5,15 h 4 C 7.7769989,15 8,14.776998 8,14.5 8,14.223002 7.7769989,14 7.5,14 Z m 0,3 C 3.2230015,17 3,17.223002 3,17.5 3,17.776998 3.2230015,18 3.5,18 h 4 C 7.7769989,18 8,17.776998 8,17.5 8,17.223002 7.7769989,17 7.5,17 Z" />
+</svg>
