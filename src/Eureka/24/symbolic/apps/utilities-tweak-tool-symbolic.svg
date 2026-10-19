@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24.000002"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="utilities-tweak-tool-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="24.25"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-width="1440"
+     inkscape:window-height="833"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {
+        color:#4d4d4d;
+        }</style>
+  </defs>
+  <path
+     id="rect899"
+     style="fill:currentColor;fill-opacity:1;stroke-width:2.50998;stroke-linecap:round;stroke-linejoin:round"
+     d="m 15,6 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z M 6,7 C 5.446,7 5,7.446 5,8 5,8.554 5.446,9 6,9 h 6.171875 A 3,3 0 0 1 12,8 3,3 0 0 1 12.171875,7 Z M 17.828125,7 A 3,3 0 0 1 18,8 3,3 0 0 1 17.828125,9 H 18 C 18.554,9 19,8.554 19,8 19,7.446 18.554,7 18,7 Z M 9,14 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z m -3,1 c -0.554,0 -1,0.446 -1,1 0,0.554 0.446,1 1,1 H 6.171875 A 3,3 0 0 1 6,16 3,3 0 0 1 6.171875,15 Z m 5.828125,0 A 3,3 0 0 1 12,16 3,3 0 0 1 11.828125,17 H 18 c 0.554,0 1,-0.446 1,-1 0,-0.554 -0.446,-1 -1,-1 z"
+     class="ColorScheme-Text" />
+</svg>

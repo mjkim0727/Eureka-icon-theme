@@ -34,10 +34,16 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5" />
   <defs
-     id="defs2" />
+     id="defs2">
+     <style
+        id="current-color-scheme"
+        type="text/css">
+        .ColorScheme-Text { color:#4d4d4d; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+     </style>
+  </defs>
   <path
      d="m 1.0009049,0.9999998 c -0.25561897,0 -0.51116197,0.09808 -0.70703097,0.293946 -0.391737,0.391737 -0.391737,1.022325 0,1.414062 L 5.3651634,7.7792968 0.29387393,12.850586 c -0.3917365,0.391736 -0.391737,1.022325 0,1.414062 0.3917375,0.391737 1.02232597,0.391737 1.41406247,0 l 5.77832,-5.7783202 c 0.391737,-0.391738 0.391737,-1.022325 0,-1.414063 l -5.77832,-5.778319 C 1.5120684,1.0980768 1.2565239,0.9999998 1.0009049,0.9999998 Z M 8,13 c -0.554,0 -1,0.446 -1,1 0,0.554 0.446,1 1,1 h 6.999929 c 0.554,0 1,-0.446 1,-1 0,-0.554 -0.446,-1 -1,-1 z"
-     style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
-     id="path342"
-     sodipodi:nodetypes="scscssccccssssssss" />
+     style="fill:currentColor;fill-opacity:1"
+     class="ColorScheme-Text"
+     id="path342" />
 </svg>

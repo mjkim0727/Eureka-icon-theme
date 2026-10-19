@@ -4,17 +4,17 @@
 <svg
    width="16"
    height="16"
-   viewBox="0 0 16 16"
+   viewBox="0 0 16 16.000001"
    version="1.1"
-   id="svg371"
-   xml:space="preserve"
-   inkscape:version="1.2.2 (1:1.2.2+202212051552+b0a8486541)"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    sodipodi:docname="internet-mail-symbolic.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
-     id="namedview373"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -23,18 +23,26 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     showgrid="false"
-     inkscape:zoom="50.625"
-     inkscape:cx="7.9901235"
+     inkscape:zoom="36.375"
+     inkscape:cx="8"
      inkscape:cy="8"
-     inkscape:window-width="1920"
-     inkscape:window-height="1012"
+     inkscape:window-width="1440"
+     inkscape:window-height="833"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg371"
-     showguides="false" /><defs
-     id="defs368" /><path
-     id="rect898"
-     style="fill:#4d4d4d;fill-opacity:1;stroke-width:2.21512;stroke-linecap:round;stroke-linejoin:round"
-     d="M 2,2 C 0.89200111,2 0,2.8920011 0,4 v 8 c 0,1.107999 0.89200111,2 2,2 h 12 c 1.107999,0 2,-0.892001 2,-2 V 4 C 16,2.8920011 15.107999,2 14,2 Z M 3,4 C 3.2556186,4 3.5131162,4.097101 3.7089844,4.2929688 L 8,8 12.291016,4.2929688 c 0.391736,-0.3917364 1.024279,-0.3917361 1.416015,0 0.391737,0.3917367 0.391737,1.0242792 0,1.4160156 L 8.7558594,9.6582031 C 8.5475,9.8665625 8.2716618,9.9625065 8,9.9492188 7.7283384,9.9625066 7.4525,9.8665625 7.2441406,9.6582031 L 2.2929688,5.7089844 C 1.9012324,5.317248 1.9012324,4.6847051 2.2929688,4.2929688 2.488837,4.0971005 2.7443814,4 3,4 Z" /></svg>
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+     <style
+        id="current-color-scheme"
+        type="text/css">.ColorScheme-Text {
+        color:#4d4d4d;
+        }</style>
+  </defs>
+  <path
+     d="M 2,2 C 0.8920011,2 0,2.8920011 0,4 v 8 c 0,1.107999 0.8920011,2 2,2 h 12 c 1.107999,0 2,-0.892001 2,-2 V 4 C 16,2.8920011 15.107999,2 14,2 Z M 3,4 C 3.2556186,4 3.5131162,4.097101 3.7089844,4.2929688 L 8,8 12.291016,4.2929688 c 0.391736,-0.3917364 1.024279,-0.3917361 1.416015,0 0.391737,0.3917367 0.391737,1.0242792 0,1.4160156 L 8.7558594,9.6582031 C 8.5475,9.8665625 8.2716618,9.9625065 8,9.9492188 7.7283384,9.9625066 7.4525,9.8665625 7.2441406,9.6582031 L 2.2929688,5.7089844 C 1.9012324,5.317248 1.9012324,4.6847051 2.2929688,4.2929688 2.488837,4.0971005 2.7443814,4 3,4 Z"
+     style="fill:currentColor;stroke-width:3.77953"
+     class="ColorScheme-Text"
+     id="path1" />
+</svg>
