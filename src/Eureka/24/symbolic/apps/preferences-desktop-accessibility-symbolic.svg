@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24.000002"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="preferences-desktop-accessibility-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="24.25"
+     inkscape:cx="11.979381"
+     inkscape:cy="12"
+     inkscape:window-width="1440"
+     inkscape:window-height="833"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {
+        color:#4d4d4d;
+        }</style>
+  </defs>
+  <path
+     id="path391"
+     style="fill:currentColor;fill-opacity:1;stroke-width:1"
+     class="ColorScheme-Text"
+     d="m 12,4 c -1.104566,0 -2,0.8954338 -2,2 0,1.1045662 0.895434,2 2,2 1.104566,0 2,-0.8954338 2,-2 C 14,4.8954338 13.104566,4 12,4 Z M 6,9 c -0.5539982,0 -1,0.4460018 -1,1 0,0.553998 0.4460018,1 1,1 h 4 v 1.871094 L 7.75,18 C 7.4437559,18.642643 7.4755905,19.294269 7.6816406,19.541016 7.8942544,19.795621 7.9886774,20 8.5,20 8.9914986,20 9.3666035,19.658958 9.6230469,19.232422 L 12,15 14.376953,19.232422 C 14.633396,19.658958 15.0085,20 15.5,20 16.011322,20 16.105745,19.795621 16.318359,19.541016 16.524409,19.294269 16.556244,18.642643 16.25,18 L 14,12.871094 V 11 h 4 c 0.553998,0 1,-0.446002 1,-1 0,-0.5539983 -0.446002,-1 -1,-1 z" />
+</svg>
