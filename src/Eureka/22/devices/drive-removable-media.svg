@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="drive-removable-media.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="in"
+     height="22px"
+     inkscape:zoom="26.363636"
+     inkscape:cx="10.981034"
+     inkscape:cy="11"
+     inkscape:window-width="1440"
+     inkscape:window-height="831"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg5"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#4d4d4d; }
+    </style>
+  </defs>
+  <path
+     id="rect846-3"
+     style="fill:currentColor;stroke-width:0.704186"
+     class="ColorScheme-Text"
+     d="M 7.8886719 2 C 7.3961219 2 7 2.3961216 7 2.8886719 L 7 7 C 6.446 7 6 7.446 6 8 L 6 12 L 6 13 L 6 16 C 6 18.216 7.784 20 10 20 L 12 20 C 14.216 20 16 18.216 16 16 L 16 13 L 16 12 L 16 8 C 16 7.446 15.554 7 15 7 L 15 2.8886719 C 15.000003 2.3961216 14.603877 2 14.111328 2 L 7.8886719 2 z M 8.2949219 3 L 13.705078 3 C 13.868266 3 14 3.1317332 14 3.2949219 L 14 7 L 8 7 L 8 3.2949219 C 8 3.1317332 8.1317318 3.0000015 8.2949219 3 z M 9.3828125 4 C 9.1690235 4.0107717 9 4.1877405 9 4.4042969 L 9 5.5957031 C 9 5.819247 9.1807556 6 9.4042969 6 L 9.5957031 6 C 9.8192431 6 10 5.819244 10 5.5957031 L 10 4.4042969 C 10 4.1807529 9.8192441 4 9.5957031 4 L 9.4042969 4 C 9.3973069 4 9.3896915 3.9996527 9.3828125 4 z M 12.382812 4 C 12.169025 4.010772 12 4.1877405 12 4.4042969 L 12 5.5957031 C 12 5.819247 12.180757 6 12.404297 6 L 12.595703 6 C 12.819247 6 13 5.819244 13 5.5957031 L 13 4.4042969 C 13 4.1807529 12.819243 4 12.595703 4 L 12.404297 4 C 12.397297 4 12.389733 3.9996527 12.382812 4 z " />
+</svg>
