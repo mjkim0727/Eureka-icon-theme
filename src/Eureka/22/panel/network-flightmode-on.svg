@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="network-flightmode-on.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="26.454545"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-width="1440"
+     inkscape:window-height="833"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#dfdfdf; }
+        .ColorScheme-Highlight { color:#4285f4; }
+        .ColorScheme-NeutralText { color:#ff9800; }
+        .ColorScheme-PositiveText { color:#4caf50; }
+        .ColorScheme-NegativeText { color:#f44336; }
+     </style>
+  </defs>
+  <path
+     d="M 9.500324,4 C 8.7003241,4 8.7203241,4.03 8.9703241,5.03 L 10.590324,10 H 6.0903241 l -1.22,-1.78 c -0.14,-0.21 -0.12,-0.22 -0.34,-0.22 h -0.22 c -0.42997,0 -0.28,0.43 -0.28,0.43 l 0.28,2.57 -0.28,2.56 c 0,0 -0.13997,0.44 0.25,0.44 h 0.25 c 0.21,0 0.2,-0.01 0.34,-0.22 l 1.22,-1.78 h 4.4999999 l -1.6199999,4.93 c -0.27,1.05 -0.27,1.07 0.5299999,1.07 0.43,0 0.43,-0.02 0.72,-0.5 l 3.68,-5.5 h 3.1 c 0.55,0 1,-0.45 1,-1 0,-0.56 -0.45,-1 -1,-1 h -3.1 l -3.68,-5.5 c -0.27,-0.46 -0.29,-0.5 -0.66,-0.5 z"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     id="path1194" />
+</svg>

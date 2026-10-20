@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg11945"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="system-user-list.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11947"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="in"
+     inkscape:zoom="26.454545"
+     inkscape:cx="10.9811"
+     inkscape:cy="11"
+     inkscape:window-width="1440"
+     inkscape:window-height="833"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg11945"
+     showguides="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs11942">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+         .ColorScheme-Text { color:#4d4d4d; }
+        </style>
+  </defs>
+  <path
+     id="path1130"
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.499997"
+     class="ColorScheme-Text"
+     d="m 13,3 c -1.365174,0 -2.517501,0.912265 -2.880859,2.1601563 a 4.0000003,4.0000003 0 0 1 0.927734,0.4042969 C 11.245893,4.6696179 12.045226,4 13,4 c 1.104566,0 2,0.8954336 2,2 0,1.1045662 -0.895434,2.0000002 -2,2.0000002 -0.04302,0 -0.08656,-0.00123 -0.128905,-0.00389 A 4.0000003,4.0000003 0 0 1 13,9 C 14.65684,9 16,7.6568395 16,6 16,4.3431596 14.65684,3 13,3 Z M 9,6 C 7.3431606,6 6,7.3431595 6,9 c 0,1.65684 1.3431606,3 3,3 1.65684,0 3,-1.34316 3,-3 C 12,7.3431595 10.65684,6 9,6 Z m 0,0.9999999 c 1.104566,0 2,0.8954336 2,2.0000001 0,1.104566 -0.895434,2 -2,2 C 7.8954335,11 6.9999999,10.104566 6.9999999,9 6.9999999,7.8954335 7.8954335,6.9999999 9,6.9999999 Z M 13,10 c -0.04252,0 -0.0846,0.0011 -0.126954,0.002 a 4.0000003,4.0000003 0 0 1 -0.421875,1.019535 c 0.178847,-0.01482 0.361969,-0.02158 0.548827,-0.02147 C 15.600741,10.9987 17.444641,12.453115 18,15 h -2.755859 a 8.0000006,8.0000006 0 0 1 0.683594,1 H 18 c 0.553997,0 1,-0.446003 1,-1 -0.476244,-2.837501 -3.027167,-5 -6,-5 z m -4,3 c -2.9728337,0 -5.5237577,2.162499 -6,5 0,0.553997 0.4460018,1 1,1 h 10 c 0.553997,0 1,-0.446003 1,-1 -0.476244,-2.837501 -3.027167,-5 -6,-5 z m 0,1 c 2.600741,-0.0013 4.444641,1.453115 5,4 H 4 c 0.5553598,-2.546885 2.3992581,-4.0013 5,-4 z" />
+</svg>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="system-switch-user.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#636363"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="9.09375"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="1440"
+     inkscape:window-height="833"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#4d4d4d; }
+        .ColorScheme-Highlight { color:#4285f4; }
+        .ColorScheme-NeutralText { color:#ff9800; }
+        .ColorScheme-PositiveText { color:#4caf50; }
+        .ColorScheme-NegativeText { color:#f44336; }
+     </style>
+  </defs>
+  <circle
+     style="opacity:0.4;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:4.28572;stroke-linecap:round;stroke-opacity:1"
+     id="path2"
+     cx="32"
+     cy="32"
+     r="30" />
+  <path
+     id="rect1"
+     style="fill:#f2f2f2;fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     d="M 22,12 10.6875,23.3125 c -0.783476,0.783474 -0.783476,2.044652 0,2.828124 0.783474,0.783476 2.044649,0.783478 2.828125,0 L 20,19.65625 V 50 c 0,1.108 0.892002,2 2,2 1.108002,0 2,-0.892 2,-2 V 19.65625 l 6.484376,6.484374 c 0.783474,0.783476 2.044654,0.783474 2.828124,0 0.783476,-0.783476 0.783474,-2.04465 0,-2.828124 z m 20,0 c -1.108002,0 -2,0.892 -2,2 v 30.34375 l -6.484376,-6.484374 c -0.783472,-0.783474 -2.044654,-0.783474 -2.828124,0 -0.783476,0.783476 -0.783474,2.04465 0,2.828124 L 42,52 53.3125,40.6875 c 0.783476,-0.783474 0.783476,-2.04465 0,-2.828124 -0.783474,-0.783474 -2.044648,-0.783478 -2.828124,0 L 44,44.34375 V 14 c 0,-1.108 -0.892002,-2 -2,-2 z" />
+</svg>

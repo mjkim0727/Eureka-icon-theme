@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16.000001"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="video-display-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="36.375"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1440"
+     inkscape:window-height="833"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#4d4d4d; }
+        .ColorScheme-Highlight { color:#4285f4; }
+        .ColorScheme-NeutralText { color:#ff9800; }
+        .ColorScheme-PositiveText { color:#4caf50; }
+        .ColorScheme-NegativeText { color:#f44336; }
+     </style>
+  </defs>
+  <path
+     id="rect234"
+     style="fill:currentColor;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="M 2 0 C 0.89200222 0 0 0.8920022 0 2 L 0 10 C 0 11.107998 0.89200222 12 2 12 L 7 12 L 7 12.736328 L 3.8632812 13.876953 C 3.3426917 14.066432 3.0761458 14.637613 3.265625 15.158203 C 3.4551041 15.678793 4.0262853 15.945338 4.546875 15.755859 L 8 14.5 L 11.453125 15.755859 C 11.973715 15.945338 12.546849 15.678789 12.736328 15.158203 C 12.925807 14.637613 12.659258 14.066432 12.138672 13.876953 L 9 12.736328 L 9 12 L 14 12 C 15.107998 12 16 11.107998 16 10 L 16 2 C 16 0.8920022 15.107998 0 14 0 L 2 0 z M 3 2 L 13 2 C 13.554 2 14 2.446 14 3 L 14 9 C 14 9.554 13.554 10 13 10 L 3 10 C 2.446 10 2 9.554 2 9 L 2 3 C 2 2.446 2.446 2 3 2 z " />
+</svg>
